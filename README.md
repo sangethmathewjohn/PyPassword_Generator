@@ -1,6 +1,6 @@
 # PyPassword_Generator
 
-### A simple but strong password generator using python that create strong custom password based on your need
+#### A simple but strong password generator using python that create strong custom password based on your need.
 
 ## Program
 
@@ -9,9 +9,9 @@
     print("Welcome TO PyPassword Generator")
     print("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-")
 
-    l = int(input("\nHow many letters do you need in the pass    :"))
-    n = int(input("How many numbers do you need in the pass    :"))
-    c = int(input("How many characters do you need in the pass :"))
+    l = int(input("\nHow many letters do you need in the pass    : "))
+    n = int(input("How many numbers do you need in the pass    : "))
+    c = int(input("How many characters do you need in the pass : "))
     print("----------------------------------------------\n")
 
     letters ='qwertyuiopasdfghjklzxcvbnm'
@@ -36,7 +36,7 @@
     random.shuffle(passw)
     for z in passw:
       password += z
-    print(f"Your Paswword is :{password}")
+    print(f"Your Paswword is : {password}")
     
 ## Output
 
