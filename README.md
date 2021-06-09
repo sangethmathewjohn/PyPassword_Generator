@@ -1,6 +1,6 @@
 # PyPassword_Generator
 
-## A simple but strong password generator using python that create strong custom password based on your need
+### A simple but strong password generator using python that create strong custom password based on your need
 
 ## Program
 
